@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MurafaDan
 - 👀 I’m interested in BackEnd and Project Management
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and MySQL
 - 📫 How to reach me ...
 
 <!---
